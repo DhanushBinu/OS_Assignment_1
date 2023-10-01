@@ -1,0 +1,1 @@
+The print statements are all documented in a log_file called test_case_1.log, which will be added when the container is running.
